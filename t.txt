@@ -1,2 +1,2 @@
 this is a test string.
-new add line.
+new add line.master.
