@@ -1,2 +1,3 @@
 this is a test string.
 new add line.master.
+new add line.hot-fix.
